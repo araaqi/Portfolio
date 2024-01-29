@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.3af18f1e.css",
+    "main.js": "/portfolio/static/js/main.c2a50249.js",
+    "static/media/Thumbnail.png": "/portfolio/static/media/Thumbnail.f9ad64b943819aa0bafa.png",
+    "static/media/Home.png": "/portfolio/static/media/Home.afd9b807718906b7c4e9.png",
+    "static/media/Home V3 2.png": "/portfolio/static/media/Home V3 2.294c6b3485c6bdfd2e5c.png",
+    "static/media/BikeDetail.png": "/portfolio/static/media/BikeDetail.5396a89974a905c54cb7.png",
+    "static/media/Onboarding 2.png": "/portfolio/static/media/Onboarding 2.8cb49b16dfbf7234ce0f.png",
+    "static/media/2.png": "/portfolio/static/media/2.d99f809d225d232b692c.png",
+    "static/media/Group 137.png": "/portfolio/static/media/Group 137.c4e7df50b94b3ca585cf.png",
+    "static/media/facebook.png": "/portfolio/static/media/facebook.81dd033a37c4860f7121.png",
+    "static/media/adobe.png": "/portfolio/static/media/adobe.a08b8360ff7b700ed0c4.png",
+    "static/media/walmart.png": "/portfolio/static/media/walmart.1d2b5e5c5c5a8e2bd5ce.png",
+    "static/media/ui-design.png": "/portfolio/static/media/ui-design.c4acd455fc2040eddcc8.png",
+    "static/media/instagram.png": "/portfolio/static/media/instagram.0bcd1dcb7d853c327af7.png",
+    "index.html": "/portfolio/index.html",
+    "main.3af18f1e.css.map": "/portfolio/static/css/main.3af18f1e.css.map",
+    "main.c2a50249.js.map": "/portfolio/static/js/main.c2a50249.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3af18f1e.css",
+    "static/js/main.c2a50249.js"
+  ]
+}
